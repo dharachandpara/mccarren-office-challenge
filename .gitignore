@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# build output (if/when created)
+dist/
+build/
+
+# logs
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# temp/office files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+*.bak
+
+# env
+.env
+.env.*
